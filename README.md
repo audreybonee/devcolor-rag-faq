@@ -1,4 +1,4 @@
-# /dev/color FAQ RAG Chatbot
+# Simple Command Line RAG System
 
 This is a simple Command Line RAG system built to answer questions based on the `/dev/color` FAQ corpus using OpenAI embeddings for semantic search, and GPT-4o-mini for response generation.
 
